@@ -15,3 +15,10 @@ ADD COLUMN nota INT DEFAULT 0;
 DROP TABLE alumno;
 
 SELECT id,nro_documento,nombre,email,nota FROM alumno;
+
+CREATE TABLE empresa(
+    id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+    ruc VARCHAR(12) NOT NULL UNIQUE,
+    razon_social VARCHAR(255) NOT NULL,
+    direccion TEXT
+);
