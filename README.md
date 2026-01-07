@@ -1,2 +1,10 @@
 # data-science-g6
 REPOSITORIO DEL BOOTCAMP DE DATA SCIENCE GRUPO G6
+
+## TEMARIO
+### MODULO 3
+* CLASE 1 - 
+* CLASE 2 - 
+* CLASE 3 - 
+* CLASE 4 -
+* CLASE 5 - 
